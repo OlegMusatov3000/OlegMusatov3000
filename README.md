@@ -8,7 +8,7 @@
 Я python-backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Перешел в мир it из строительной сферы. Решил поменять сферу деятельности, так как безумно хочу создавать программный продукт который делает мир лучше! С января 2023 г по октябрь 2023 г я изучал веб разработку на курсах Яндекс Практикум. Учебу совмещал с работой. К настоящему времени прошел объемный курс python-backend разработки от яндекс практикума, несколько бесплатных курсов на платформе Stepik, имею опыт коммерческой разработки на языке Python 6 месяцев!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-OlegMusatov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OlegMusatov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:olegmusatov97@gmail.com)
+- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-OlegMusatov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OlegMusatov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:olegmusatov97@gmail.com)
 - Резюме можно посмотреть по ссылке: [![Resume](https://img.shields.io/badge/Resume-Google%20Docs-blue?style=flat&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1-5Y72l9pkN80kY_u9l-3QsTe4ZoRsyKD1ZKgbTVPG6s/edit?usp=sharing)
 
 ---
